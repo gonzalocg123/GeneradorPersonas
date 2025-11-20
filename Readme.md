@@ -14,7 +14,7 @@ Carga datos de nombres, apellidos y dominios de email desde archivos de texto y 
 
 ---
 
-## 🚀 Características
+## Características
 - Lectura de archivos de texto para personalizar la base de datos.
 - Generación de hasta **100.000 perfiles aleatorios**.
 - Emails formateados con reglas personalizadas.
@@ -23,7 +23,7 @@ Carga datos de nombres, apellidos y dominios de email desde archivos de texto y 
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 ```text
     .
     ├── datos/
@@ -45,7 +45,7 @@ Carga datos de nombres, apellidos y dominios de email desde archivos de texto y 
 
 ---
 
-## 🛠️ Instalación y Uso
+## Instalación y Uso
 ```bash
     # Clonar repositorio
     git clone https://github.com/tuusuario/generador-nombres.git
@@ -60,7 +60,7 @@ Carga datos de nombres, apellidos y dominios de email desde archivos de texto y 
 
 ---
 
-## 📖 Generación de Javadoc
+## Generación de Javadoc
 ```bash
     mvn javadoc:javadoc
 ```
@@ -68,7 +68,7 @@ La documentación se genera en target/site/apidocs.
 
 ---
 
-## 🧰 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Java 17**
 
@@ -76,7 +76,7 @@ La documentación se genera en target/site/apidocs.
 
 ---
 
-## ✅ Próximos Pasos
+## Próximos Pasos
 
 - Añadir interfaz gráfica (Swing / JavaFX)
 
@@ -91,17 +91,17 @@ La documentación se genera en target/site/apidocs.
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 **Gonzalo Chica Godino**
 
-- 📧 chicagodinogonzalo@gmail.com
+- chicagodinogonzalo@gmail.com
 
-- 🌐 [Perfil de GitHub](https://github.com/gonzalocg123)
+- [Perfil de GitHub](https://github.com/gonzalocg123)
 
 ---
 
-# 📜 Licencia
+# Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**.  
 Eres libre de usarlo, modificarlo y compartirlo, siempre mencionando al autor original.
